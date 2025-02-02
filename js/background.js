@@ -4,8 +4,8 @@
 */
 let xx = 0;
 let yy = 0;
-let hvel = 7; // horizontal velocity
-let vvel = 7; // vertical velocity
+let hvel = 4; // horizontal velocity
+let vvel = 4; // vertical velocity
 let logo;
 
 function setup() {
@@ -20,11 +20,11 @@ function setup() {
 
 function draw() {
     background(255);
-    image(logo, xx, yy);
+    image(logo, xx, yy, logo.width / 4, logo.height / 4);
     xx += hvel;
-    if (xx > windowWidth - logo.width / 2 || xx < logo.width / 2)
+    if (xx > windowWidth - logo.width / 8 || xx < logo.width / 8)
         hvel = -hvel;
     yy += vvel;
-    if (yy > windowHeight - logo.height / 2 || yy < logo.height / 2)
+    if (yy > windowHeight - logo.height / 8 || yy < logo.height / 8)
         vvel = -vvel;
 }
