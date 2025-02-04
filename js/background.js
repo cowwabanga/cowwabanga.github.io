@@ -4,14 +4,14 @@
 */
 let xx = 0;
 let yy = 0;
-let hvel = 4; // horizontal velocity
-let vvel = 4; // vertical velocity
+let hvel = 3; // horizontal velocity
+let vvel = 3; // vertical velocity
 let logo;
 
 function setup() {
-    createCanvas(windowWidth, windowHeight);
-    noStroke();
-    fill(128, 255, 255, 128);
+    canvas = createCanvas(windowWidth, windowHeight);
+    canvas.position(0, 0);
+    canvas.style("z-index", "-1");
     xx = windowWidth / 2;
     yy = windowHeight / 2;
     logo = loadImage("../assets/DVD_logo.svg");
@@ -27,4 +27,8 @@ function draw() {
     yy += vvel;
     if (yy > windowHeight - logo.height / 8 || yy < logo.height / 8)
         vvel = -vvel;
+}
+
+function windowResized() {
+    resizeCanvas(windowWidth, windowHeight);
 }
