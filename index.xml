@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home on ghost in the computer</title>
+    <link>https://example.org/</link>
+    <description>Recent content in Home on ghost in the computer</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 11 Jan 2026 14:07:28 +0500</lastBuildDate>
+    <atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hello World</title>
+      <link>https://example.org/hello-world/</link>
+      <pubDate>Sun, 11 Jan 2026 14:07:28 +0500</pubDate>
+      <guid>https://example.org/hello-world/</guid>
+      <description>&lt;p&gt;Hello World!&lt;/p&gt;&#xA;&lt;p&gt;this is my first post.&lt;/p&gt;&#xA;&lt;p&gt;hope you&amp;rsquo;re very well.&lt;/p&gt;&#xA;&lt;p&gt;see you!&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
