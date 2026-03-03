@@ -1,7 +1,24 @@
-.flex-container {
+.header-container {
   display: flex;
   align-items: center;
   gap: 16px;
+}
+
+.nav-container {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+  list-style: none;
+  font-weight: bold;
+}
+
+ul.nav-container {
+  margin-top: 0;
+  padding: 0;
+}
+
+.nav-container a {
+  white-space: nowrap;
 }
 
 .logo {
@@ -10,12 +27,36 @@
   background-color: #50459b;
 }
 
+.logo:hover {
+  background-color: coral;
+}
+
 .title {
   line-height: 1;
 }
 
+.posts-container {
+  list-style: none;
+}
+
+ul.posts-container {
+  padding: 0;
+}
+
+.posts-container a {
+  text-decoration: underline;
+}
+
+.posts-container a:hover {
+  text-decoration: none;
+}
+
+.post-description {
+  margin-left: 32px;  
+}
+
 body {
-  background-color: #fff;
+  background-color: #F2F0EA;
   color: #222;
   font-family: sans-serif;
   line-height: 1.5;
@@ -72,11 +113,8 @@ img {
 }
 
 time {
-  /* display: block; */
   padding-right: 0;
   padding-left: auto;
-  font-style: italic;
-  text-decoration: underline;
 }
 
 pre code {
