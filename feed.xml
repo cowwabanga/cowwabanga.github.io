@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <title>ghost in the computer</title>
+  <subtitle></subtitle>
+  <link href="https://cowwabanga.github.io/feed.xml" rel="self" />
+  <link href="https://cowwabanga.github.io/" />
+  <updated>2026-02-24T00:00:00Z</updated>
+  <id>https://cowwabanga.github.io/</id>
+  <author>
+    <name>cowwabanga</name>
+  </author>
+  <entry>
+    <title>Hello World</title>
+    <link href="https://cowwabanga.github.io/posts/hello/" />
+    <updated>2026-02-24T00:00:00Z</updated>
+    <id>https://cowwabanga.github.io/posts/hello/</id>
+    <content type="html">&lt;p&gt;Hello world!&lt;/p&gt;
+&lt;p&gt;This is my first blog post for a very long time. Last time I wrote anything longer than 280 characters was in 2017, and I almost never use English language for writing.&lt;/p&gt;
+&lt;p&gt;Here is a thing: I am from Russia, and I almost never studied English language, but was surrounded by it through web, games, music. So it just happened than at some moment of my life I&#39;ve started understand it. However, since I do not study it and almost never use it for conversation, I am unsure about how good my skill is (and I know that speaking and writing are much harder for me than just listening).&lt;/p&gt;
+&lt;p&gt;I&#39;ve tried to push myself to use social media like &lt;a href=&quot;https://x.com/cowwabanga&quot;&gt;Twitter aka X&lt;/a&gt; or &lt;a href=&quot;https://bsky.app/profile/cowwabanga.bsky.social&quot;&gt;Bluesky&lt;/a&gt;, but I do not like that this platforms are like big loud bazaar, where I should to yell to be heard. It&#39;s much better just speak, even it is with the void.&lt;/p&gt;
+&lt;p&gt;Some time ago I&#39;ve read post &lt;a href=&quot;https://andysblog.uk/why-blog-if-nobody-reads-it/&quot;&gt;Why Blog If Nobody Reads It?&lt;/a&gt;, which says:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;There is a hidden value in blogging. There’s an old Zen saying: “Chop wood, carry water.” You do it not for the applause but because it needs doing.&lt;/p&gt;
+&lt;p&gt;Blogging forces clarity. It makes you structure your thoughts, sharpen your perspective. You stop writing fluff because — let’s be honest — you’re writing for yourself. And if you can’t keep yourself interested, nobody else stands a chance.&lt;/p&gt;
+&lt;p&gt;When you write, you think better. When you think better, you create better.&lt;/p&gt;
+&lt;p&gt;So, who’s there real audience?&lt;/p&gt;
+&lt;p&gt;You’re not just writing for today’s invisible audience. You’re writing for:&lt;/p&gt;
+&lt;p&gt;Future you. Your posts become a time capsule of your evolving mind.
+One right person. Maybe one day, someone stumbles across your words at exactly the right moment. And that changes something for them.
+The work itself. Consistency beats virality. A hundred posts with depth will outlast a single viral hit.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;This hit me - maybe I should stop using platform that limits you and force to consume content, and just start writing for myself?&lt;/p&gt;
+&lt;p&gt;So this is my main reason to start this website and blog.&lt;/p&gt;
+</content>
+  </entry>
+</feed>
